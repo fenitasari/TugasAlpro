@@ -1,0 +1,39 @@
+## Coding Menampilkan hasil jumlah matriks A dan B
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a11 = 1, a12 = 2, a21 = 3, a22 = 4;
+    int b11 = 5, b12 = 6, b21 = 7, b22 = 8;
+
+    int c11 = 0, c12 = 0, c21 = 0, c22 = 0;
+
+    // Menjumlahkan matriks A dan B
+    c11 = a11 + b11;
+    c12 = a12 + b12;
+    c21 = a21 + b21;
+    c22 = a22 + b22;
+
+    // Menampilkan hasil jumlah matriks A dan B
+    cout << "Matriks A = " << endl;
+    cout << "(" << a11 << " " << a12 << ")" << endl;
+    cout << "(" << a21 << " " << a22 << ")" << endl;
+    cout << endl;
+
+    cout << "Matriks B = " << endl;
+    cout << "(" << b11 << " " << b12 << ")" << endl;
+    cout << "(" << b21 << " " << b22 << ")" << endl;
+    cout << endl;
+
+    cout << "Hasil jumlah matriks A dan B = " << endl;
+    cout << "(" << c11 << " " << c12 << ")" << endl;
+    cout << "(" << c21 << " " << c22 << ")" << endl;
+
+ return 0;
+}
+
+## Capture hasil running
+![1bdf47ab-5829-487d-925c-4a38f43e6530](https://github.com/fenitasari/TugasAlpro/assets/156888132/f006d576-2df0-436c-905c-db5d656b4d3f)
+
+
