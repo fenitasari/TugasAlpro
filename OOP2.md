@@ -67,7 +67,7 @@ int main() {
 }
 ```
 # capture hasil running
-![image](https://github.com/fenitasari/TugasAlpro/assets/156888132/897a2b4f-99fa-4c6f-a44a-2dba0832314c)
+![Screenshot (32)](https://github.com/fenitasari/fenita/assets/156888132/e8a9581e-431a-415e-8d07-5ea642759579)
 
 # pratikumpII
 ```
